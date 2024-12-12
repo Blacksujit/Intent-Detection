@@ -4,9 +4,8 @@
 
 The goal of this assignment is to build a machine learning model that accurately predicts the intent of a user based on their input. Intent detection is a critical part of most Conversational AI systems as it helps the virtual agent "understand" user needs and respond appropriately.
 
-This document provides a detailed guide on the problem formulation, approach, implementation, results, and suggestions for improvements.
+# Problem Formulation:
 
-# Problem Formulation
 
 ## How This Problem Is Framed as a Machine Learning Problem:
 
