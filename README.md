@@ -147,7 +147,9 @@ Evaluate using a validation dataset.
 
 ### **Advanced Model (Fine-tuned BERT)**
 
-**Final Accuracy:**  ``~84.123%``
+**Final Accuracy:**  ``~84.123%`` 
+
+**for this final accuracy you can download the notebook [here ](https://github.com/Blacksujit/Intent-Detection/blob/92ce6773d268e9068e16affa32db1f73f0b52996/intent_notebooks)**
 
 ### Key Insights:
 
