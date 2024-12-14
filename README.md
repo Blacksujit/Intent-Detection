@@ -83,7 +83,7 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ..
 
 ***More complex implementation and evaluation.***
 
-# Solution Approach
+## Solution Approach:
 
 ## 1. Dataset
 
