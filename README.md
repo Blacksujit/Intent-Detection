@@ -85,7 +85,7 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ..
 
 ## Solution Approach:
 
-## 1. Dataset
+## 1. Dataset:
 
 **The provided dataset contains user utterances with their corresponding intent labels. which is reffered as  ``sentences`` , ``labels`` Key steps include:**
 
@@ -93,7 +93,7 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ..
                                 
 **Preprocessing:** Converting text to lowercase, tokenization, and vectorization using methods like TF-IDF or pretrained embeddings.
 
-## 2. Implementation
+## 2. Implementation:
 
 ### Two approaches were implemented:
 
